@@ -2,19 +2,19 @@
 
 ![alt text](./assets/images/_C__Users_jeded_OneDrive_Desktop_classwork_module-1_module-1-challenge_index.html%20(1).png)
 
+[Horiseon: Online Business Optimization](https://jorullian.github.io/orullian-horiseon-site-module-1-challenge/)
+
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project was a refactoring of the Horiseon webpage. The motivation behind this refactoring was a desire to comply with the company's own standards for site optimization and accessibility. The resulting optimization improved all viewers capacity to observe the complete presentation of the site, including image descriptors for the visually impaired; as well as improved the sites own search optimization.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+In addition to refactoring, the style.css was adjusted to show elements as they appeared on the index.html. This should make it easier for future developers to see the link between the index and style files. On the index.html file, many element tags were changed to be more descriptive of their styling and position on the webpage. The last change was a concise title for the browser tab.
 
-## License
+I ran into an interesting problem in this project. The background image digital-marketing-meeting.jpg from the style.css refused to load correctly on the Chrome browser I was using for debugging. After some trial and error, I found that it was the specific version of Chrome that was having the issue. I was using a dev version of Chrome and opening the site in any other browser, including the standard version of Chrome showed the background image correctly.
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+## Citation
+The original code is not owned by me, but has been provided by Southern Methodist University Coding Bootcamp.
 
----
+The repo for the original code can be found here [Original Code Repo](https://git.bootcampcontent.com/Southern-Methodist-University/SMU-VIRT-FSF-PT-05-2024-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge?ref_type=heads)
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+This project is part of an ongoing coding bootcamp and has been completed by Jedediah Orullian.
